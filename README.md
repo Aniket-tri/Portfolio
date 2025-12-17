@@ -45,7 +45,7 @@ demonstrating the use of semantic HTML and proper document structure.
 ✔ README documentation  
 
 ## 📸 Screenshots
-![Portfolio Screenshot](images/screenshot.png)
+![Portfolio Screenshot]("C:\Users\Admin\OneDrive\Desktop\Screenshot (83).png")
 
 ## 🚀 Future Improvements
 - Add CSS for styling
