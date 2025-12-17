@@ -45,7 +45,8 @@ demonstrating the use of semantic HTML and proper document structure.
 ✔ README documentation  
 
 ## 📸 Screenshots
-![Portfolio Screenshot]("")
+![Portfolio Screenshot]("<img width="1366" height="768" alt="Screenshot png" src="https://github.com/user-attachments/assets/91e0c628-2c10-4a41-8266-c436f88e6426" />
+")
 
 ## 🚀 Future Improvements
 - Add CSS for styling
